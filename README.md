@@ -1,2 +1,5 @@
+
 # Leashed
-Your app description, here.
+
+
+Side project to help me practice React - an interation of WagMe!
