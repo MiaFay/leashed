@@ -13,3 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require_tree .
+# SASS
+*= require devise_bootstrap_views
+
+# LESS
+*= require devise_bootstrap_views_less
